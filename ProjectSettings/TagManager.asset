@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -41,3 +41,20 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Vegetacion
+    uniqueID: 2271565033
+    locked: 0
+  - name: Arboles
+    uniqueID: 965981935
+    locked: 0
+  - name: Edificios
+    uniqueID: 846612981
+    locked: 0
+  - name: ArbolesFront
+    uniqueID: 2273092045
+    locked: 0
+  - name: Muros
+    uniqueID: 3748210065
+    locked: 0
+  m_RenderingLayers:
+  - Default
